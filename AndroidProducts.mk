@@ -15,4 +15,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_CPH1859.mk
+    $(LOCAL_DIR)/aosip_CPH1859.mk
